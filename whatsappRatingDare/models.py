@@ -1,7 +1,7 @@
 
 from email.policy import default
 from django.db import models
-from numpy import True_
+
 
 
 RATTING_CHOICE = (('1','1') , ('2' , '2') , ('3' , '3') , ('4','4') )	
